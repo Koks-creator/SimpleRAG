@@ -1,0 +1,6 @@
+birthdays:
+ me: 6th september
+ mother: 25th august
+ father: 9th june
+ grandpa: 2nd july
+ grandma: 3rd october
