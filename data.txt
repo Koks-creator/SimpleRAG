@@ -1,0 +1,2 @@
+https://hal.science/hal-03957224/document
+https://home.agh.edu.pl/~horzyk/lectures/ci/CI-RNN-LSTM.pdf
